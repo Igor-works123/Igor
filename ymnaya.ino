@@ -1,6 +1,6 @@
-#define WIFI_SSID "OPTIKNET.RU_2G_10"
-#define WIFI_PASS "t850ac161"
-#define BOT_TOKEN "7992171672:AAGrgp9XZ5OHdgkgOXvqGvRJYY-HwCmpoNk"
+#define WIFI_SSID "_" //здесь необходимо ввести пароль от интернет сети и токен бота
+#define WIFI_PASS "_"
+#define BOT_TOKEN "_"
 #define SENSOR_PIN A0
 #include <FastBot.h>
 #include <DHT.h>   
